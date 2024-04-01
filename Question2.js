@@ -5,6 +5,7 @@ function createArray(start, end) {
     }
     return array;
 }
+console.log(createArray(1,10));
 
 
 
